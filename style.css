@@ -904,7 +904,7 @@ height:54rem;
     text-align: left !important; /* Align content to the left */
     padding-left: 20px;
     margin-bottom: 20px;
-    margin-left:-29.875rem !important;
+    margin-left:-29.875rem;
 }
 
 .bignumber {
