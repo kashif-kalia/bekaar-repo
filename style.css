@@ -138,6 +138,7 @@ body {
 }
 .phone-number-container1 {
     /* position: absolute; */
+    margin-top:-2%;
     right: 10%;                
     top: 30px;                 
     background-color: #A04A57;
@@ -1484,7 +1485,7 @@ height:54rem;
     transform: translateX(-50%); /* Perfect horizontal centering */
     color: white; 
     text-align: center; 
-    /* margin-top:100px; */
+    margin-top:-80px;
 }
 
 .phone-number p {
@@ -2025,7 +2026,7 @@ height:54rem;
     .slider-container{
         height: fit-content; 
     }
-    .slider-container{
+    .slider-container {
         overflow-x: auto;
         scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
@@ -2201,6 +2202,7 @@ color:#3C3D41;
         .meetourteam-phonenumber{
             position:relative;
             width:90%;
+            margin-top:5%;
         }
         
          
@@ -2587,7 +2589,7 @@ color:#3C3D41;
     .card-count{
         width:7% !important;
         margin-left: 1%;
-        margin-top:-60px !important;
+        margin-top:-115px !important;
     }
 
     #navbar{
@@ -2859,7 +2861,7 @@ color:#3C3D41;
     align-items: center;
     justify-content: center;
     position: relative;
-    margin: 3% 0 0 0; /* 30px = 3% */
+    margin: 8% 0 0 0; /* 30px = 3% */
 }
 
 .testimonial-slide {
@@ -2939,7 +2941,7 @@ color:#3C3D41;
 }
 
 .prev, .next {
-    transform: translateY(250%);
+    transform: translateY(120%);
     background-color: #A04A57;
     border: none;
     font-size: 1.875rem; /* 30px = 1.875rem */
@@ -2947,7 +2949,7 @@ color:#3C3D41;
     cursor: pointer;
     padding: 0;
     /* width: 30%; */
-    width:135px;
+    width:100px;
     height: 7rem; 
     
 }
@@ -3468,7 +3470,7 @@ color:#3C3D41;
 /* Section 9 */
 #section9{
     background-color: #A04A57 !important;
-    padding:5% 5% 0px 5% !important;
+    padding:5% 2% 0px 3% !important;
     height:0%;
 }
 
@@ -3486,7 +3488,7 @@ color:#3C3D41;
     justify-content: center;
     align-items: center;
     left: 50%;
-    transform: translateX(-110%);
+    transform: translateX(-315%);
     color: white;
     text-align: center;
     margin-top: 20%;
@@ -3510,7 +3512,7 @@ color:#3C3D41;
 }
 
 .section9-footerhead h5{
-     margin:15% 0% 0% -10%;
+     margin:10% 0% 0% -10%;
      font-family: 'Bellisya', sans-serif;
     font-size: 4.375rem; 
     font-weight: 400; 
